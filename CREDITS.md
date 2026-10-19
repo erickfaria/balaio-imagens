@@ -38,6 +38,14 @@ Autor: **www.Pixel.la Free Stock Photos**. Origem: Wikimedia Commons, com licen�
 - [64813dd995a2418b84ef9bed8ee6523b/1c260a6c78cc2d48994c2bb1.webp](64813dd995a2418b84ef9bed8ee6523b/1c260a6c78cc2d48994c2bb1.webp)
 - [8198cce54dbb456db23e58510c39b68f/1c260a6c78cc2d48994c2bb1.webp](8198cce54dbb456db23e58510c39b68f/1c260a6c78cc2d48994c2bb1.webp)
 
+Crédito nos metadados desta foto: **Karolina Grabowska / STAFFAGE**, além da fonte indicada acima.
+
+- [23407bdcc8dd42719431d6b54963679a/1c260a6c78cc2d48994c2bb1.webp](23407bdcc8dd42719431d6b54963679a/1c260a6c78cc2d48994c2bb1.webp)
+- [a75a51aed0964792857ef20a76afb7f5/1c260a6c78cc2d48994c2bb1.webp](a75a51aed0964792857ef20a76afb7f5/1c260a6c78cc2d48994c2bb1.webp)
+- [815e5346aac04ebabffd040085015ee0/1c260a6c78cc2d48994c2bb1.webp](815e5346aac04ebabffd040085015ee0/1c260a6c78cc2d48994c2bb1.webp)
+- [961b09b61c9a4125ae464cee6af7c576/1c260a6c78cc2d48994c2bb1.webp](961b09b61c9a4125ae464cee6af7c576/1c260a6c78cc2d48994c2bb1.webp)
+- [cef71bc6d6e84db0880b5e157b758008/1c260a6c78cc2d48994c2bb1.webp](cef71bc6d6e84db0880b5e157b758008/1c260a6c78cc2d48994c2bb1.webp)
+
 ### Desk-laptop-notebook-pen (23958719819).jpg
 
 [Página de origem](https://commons.wikimedia.org/wiki/File:Desk-laptop-notebook-pen_(23958719819).jpg) · [Revisão consultada](https://commons.wikimedia.org/w/index.php?oldid=1156713270).
