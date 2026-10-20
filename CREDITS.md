@@ -157,3 +157,11 @@ Capturas: **Balaio Científico**, com dados fictícios. Interface: **The jamovi 
 - [ef5534ffbc954384a81dccb4c4cee3fe/fc3235625ef2191b889c39e5.webp](ef5534ffbc954384a81dccb4c4cee3fe/fc3235625ef2191b889c39e5.webp)
 - [f9f45a066a69482e88b2be7ca9edb299/1191fe7982f0fa43963591be.webp](f9f45a066a69482e88b2be7ca9edb299/1191fe7982f0fa43963591be.webp)
 - [fecb46c8d12147999f40f20a460f0d1d/80d40ade2af0960fc28e4964.webp](fecb46c8d12147999f40f20a460f0d1d/80d40ade2af0960fc28e4964.webp)
+
+## Radioamadorismo — foto de abertura
+
+**Ham radio antenna tower.jpg**. Autor: **Wikideas1**, fotografia própria disponibilizada pelo autor sob **[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)**. [Página de origem](https://commons.wikimedia.org/wiki/File:Ham_radio_antenna_tower.jpg) · [Revisão consultada](https://commons.wikimedia.org/w/index.php?oldid=1225004316). Alterações: redimensionamento proporcional para 1200 × 900 pixels e conversão para WebP, sem recorte ou alteração de conteúdo. Uso ilustrativo.
+
+- [9c592aa5b30b4a36be9b86e3c28209ca/50eda9ef54c25d5874690ff7.webp](9c592aa5b30b4a36be9b86e3c28209ca/50eda9ef54c25d5874690ff7.webp)
+- [131639455c304a44aef097286df24e8e/50eda9ef54c25d5874690ff7.webp](131639455c304a44aef097286df24e8e/50eda9ef54c25d5874690ff7.webp)
+- [a83c0c82d8dc42eda3aae6f2f9f294e0/50eda9ef54c25d5874690ff7.webp](a83c0c82d8dc42eda3aae6f2f9f294e0/50eda9ef54c25d5874690ff7.webp)
