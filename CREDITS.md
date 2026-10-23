@@ -165,3 +165,17 @@ Capturas: **Balaio Científico**, com dados fictícios. Interface: **The jamovi 
 - [9c592aa5b30b4a36be9b86e3c28209ca/50eda9ef54c25d5874690ff7.webp](9c592aa5b30b4a36be9b86e3c28209ca/50eda9ef54c25d5874690ff7.webp)
 - [131639455c304a44aef097286df24e8e/50eda9ef54c25d5874690ff7.webp](131639455c304a44aef097286df24e8e/50eda9ef54c25d5874690ff7.webp)
 - [a83c0c82d8dc42eda3aae6f2f9f294e0/50eda9ef54c25d5874690ff7.webp](a83c0c82d8dc42eda3aae6f2f9f294e0/50eda9ef54c25d5874690ff7.webp)
+
+## QSObook — capturas da interface
+
+Capturas autênticas de **erickfaria / projeto QSObook**, com dados fictícios de demonstração. [Interface e código sob AGPL-3.0](https://github.com/erickfaria/QSObook/blob/d56e76d2bc150f5c550c004096be0dddb04b8aa8/LICENSE). [Revisão de origem](https://github.com/erickfaria/QSObook/tree/d56e76d2bc150f5c550c004096be0dddb04b8aa8/docs/screenshots). Conversão para WebP sem perdas, sem recorte ou alteração dos pixels. As licenças de componentes de terceiros permanecem aplicáveis.
+
+- dashboard: [b561d16fd1424813a23c8964addadf7e/a7613bf7592dd7238103fe27.webp](b561d16fd1424813a23c8964addadf7e/a7613bf7592dd7238103fe27.webp) · [PNG original](https://github.com/erickfaria/QSObook/blob/d56e76d2bc150f5c550c004096be0dddb04b8aa8/docs/screenshots/dashboard.png)
+- qso-mode: [b561d16fd1424813a23c8964addadf7e/9181c8ee244dc9d48fe06ec5.webp](b561d16fd1424813a23c8964addadf7e/9181c8ee244dc9d48fe06ec5.webp) · [PNG original](https://github.com/erickfaria/QSObook/blob/d56e76d2bc150f5c550c004096be0dddb04b8aa8/docs/screenshots/qso-mode.png)
+- notebook: [b561d16fd1424813a23c8964addadf7e/1c93988358bdc088c03dec68.webp](b561d16fd1424813a23c8964addadf7e/1c93988358bdc088c03dec68.webp) · [PNG original](https://github.com/erickfaria/QSObook/blob/d56e76d2bc150f5c550c004096be0dddb04b8aa8/docs/screenshots/notebook.png)
+- contact-map: [06af9b40b71f4345a22e074106077d91/1e9f63865f4e883f2d9d945d.webp](06af9b40b71f4345a22e074106077d91/1e9f63865f4e883f2d9d945d.webp) · [PNG original](https://github.com/erickfaria/QSObook/blob/d56e76d2bc150f5c550c004096be0dddb04b8aa8/docs/screenshots/contact-map.png)
+- operators: [06af9b40b71f4345a22e074106077d91/125fa0255782ab750a11d6d7.webp](06af9b40b71f4345a22e074106077d91/125fa0255782ab750a11d6d7.webp) · [PNG original](https://github.com/erickfaria/QSObook/blob/d56e76d2bc150f5c550c004096be0dddb04b8aa8/docs/screenshots/operators.png)
+- qso-mobile: [ad7fd233115946048f6957ee1d408ecf/9cbd1a47c785dc48db761584.webp](ad7fd233115946048f6957ee1d408ecf/9cbd1a47c785dc48db761584.webp) · [PNG original](https://github.com/erickfaria/QSObook/blob/d56e76d2bc150f5c550c004096be0dddb04b8aa8/docs/screenshots/qso-mobile.png)
+- qso-dark: [ad7fd233115946048f6957ee1d408ecf/ee45c05c9c6c6611d8898494.webp](ad7fd233115946048f6957ee1d408ecf/ee45c05c9c6c6611d8898494.webp) · [PNG original](https://github.com/erickfaria/QSObook/blob/d56e76d2bc150f5c550c004096be0dddb04b8aa8/docs/screenshots/qso-dark.png)
+
+A captura `contact-map` inclui cartografia e dados **© OpenStreetMap contributors**. [Atribuição e licenciamento dos dados sob ODbL](https://www.openstreetmap.org/copyright). O crédito visual original foi preservado; as demais capturas são da interface do QSObook. Nenhuma licença CC0 é atribuída a essas telas.
