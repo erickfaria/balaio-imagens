@@ -179,3 +179,14 @@ Capturas autênticas de **erickfaria / projeto QSObook**, com dados fictícios d
 - qso-dark: [ad7fd233115946048f6957ee1d408ecf/ee45c05c9c6c6611d8898494.webp](ad7fd233115946048f6957ee1d408ecf/ee45c05c9c6c6611d8898494.webp) · [PNG original](https://github.com/erickfaria/QSObook/blob/d56e76d2bc150f5c550c004096be0dddb04b8aa8/docs/screenshots/qso-dark.png)
 
 A captura `contact-map` inclui cartografia e dados **© OpenStreetMap contributors**. [Atribuição e licenciamento dos dados sob ODbL](https://www.openstreetmap.org/copyright). O crédito visual original foi preservado; as demais capturas são da interface do QSObook. Nenhuma licença CC0 é atribuída a essas telas.
+
+## QSObook — novas telas de Registros e mapa (beta 4)
+
+Capturas originais do projeto **erickfaria/QSObook**, com operadores e contatos fictícios de demonstração. Interface sob [AGPL-3.0](https://github.com/erickfaria/QSObook/blob/daf3e6b9e750a97d90954909a9bd28253d96bf40/LICENSE); componentes mantêm as [licenças e créditos próprios](https://github.com/erickfaria/QSObook/blob/daf3e6b9e750a97d90954909a9bd28253d96bf40/docs/THIRD_PARTY_NOTICES.txt). Conversão PNG para WebP sem perdas, mesmas dimensões e pixels RGB, sem recorte ou montagem.
+
+- [home-records.png](https://github.com/erickfaria/QSObook/blob/daf3e6b9e750a97d90954909a9bd28253d96bf40/docs/screenshots/home-records.png) — SHA256 do WebP: `7bb5ed84072560980352a6f1379f3f9ad63cc33d99c3b7d30ae22789df43823a`.
+- [location-settings.png](https://github.com/erickfaria/QSObook/blob/daf3e6b9e750a97d90954909a9bd28253d96bf40/docs/screenshots/location-settings.png) — SHA256 do WebP: `4f02e48199e97c72a366f2bd3ae6928198811ac0c4ad5ddd7e227555f24c6ad2`.
+- [records-desktop.png](https://github.com/erickfaria/QSObook/blob/daf3e6b9e750a97d90954909a9bd28253d96bf40/docs/screenshots/records-desktop.png) — SHA256 do WebP: `ad160b746cc96bc0dd778f79204a54ada0a306530c00f9a2e997805d10d1f5be`.
+- [records-mobile.png](https://github.com/erickfaria/QSObook/blob/daf3e6b9e750a97d90954909a9bd28253d96bf40/docs/screenshots/records-mobile.png) — SHA256 do WebP: `b38486f053776169e0b1dcdb769d1f3b7afbbfe3ac7dbe267c58b79f43966454`.
+
+`home-records` conserva o crédito **© OpenStreetMap contributors**, com [dados sob ODbL](https://www.openstreetmap.org/copyright). O fundo cartográfico já estava indisponível no PNG original; os marcadores e as atribuições foram preservados. A aplicação inclui Atkinson Hyperlegible sob SIL OFL 1.1 e nomes de países Unicode, com os avisos de terceiros mantidos na origem.
